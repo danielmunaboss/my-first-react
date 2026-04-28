@@ -1,0 +1,25 @@
+.love {
+  color: chartreuse;
+  font-size: 50px;
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.logo {
+  width: 200px;
+  height: 200px;
+}
+.bg-img {
+  background-image: url(../../assets/image/f64e5098ccbf2e72320fb2b248beaf0c.jpg);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.value {
+  background-image: url(../../assets/image/acf31bed0c7b662995c36ce1d60d554b.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
