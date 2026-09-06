@@ -478,7 +478,7 @@ const Hero: React.FC = () => {
                       <Code2 size={14} color="var(--gold)" /> Full-Stack Dev
                     </span>
                     <span className="desc">
-                      End-to-end apps with React, Node.js, APIs, and databases.
+                      End-to-end apps with React, Node.js, APIs, & databases.
                     </span>
                   </div>
                   <div className="discipline-row">
